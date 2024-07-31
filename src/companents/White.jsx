@@ -1,5 +1,7 @@
+
 export default function White(){
     return(
+        <>
         <div className="white">
             <header className="header">
                 <ul>
@@ -43,5 +45,6 @@ export default function White(){
                 <h5>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta deleniti eos labore quae harum, dignissimos dolorem. Architecto, dolore aut quasi iusto fugiat reprehenderit. Perferendis, necessitatibus quos. Exercitationem ipsam accusamus perferendis, natus optio cumque eius nisi neque, reprehenderit laborum beatae distinctio molestias dicta cum possimus tempora voluptate maxime quisquam error. Facilis pariatur nostrum autem architecto amet ea voluptate facere dolor officia quidem ipsam aspernatur cumque dolore vel molestiae ex quos, voluptates voluptas suscipit illo hic quisquam nemo eos. Qui quidem, perspiciatis dolorem esse voluptatem alias maiores magni rem autem debitis nulla distinctio dolores eveniet perferendis velit repudiandae. Sequi, odit. Sit atque molestiae ex nam error ratione! Veniam optio quidem eveniet mollitia quia, et illum animi magni odio incidunt repudiandae alias cumque. Corrupti quia sed dicta in vero aut eveniet voluptatibus fugiat eaque consectetur! Obcaecati omnis nisi doloremque. Molestias culpa illo similique voluptates commodi delectus porro tempora harum a. Iste voluptatum rerum natus. Voluptatem dolores praesentium veniam labore cumque, exercitationem repellendus, consequatur laudantium ipsa voluptate distinctio molestias fugit sit beatae explicabo illum natus dolore tempora minus reiciendis eligendi! Rerum omnis accusamus saepe nobis ipsam odio dignissimos temporibus id quam enim ea quo aliquid vitae sed, reiciendis sapiente, necessitatibus provident illum aspernatur veniam?</h5>
             </div>
         </div>
+        </>
     )
 }
